@@ -91,7 +91,7 @@ ENV/
 .spyderproject
 .spyproject
 
-# Rope project settings
+# Rope project settingss
 .ropeproject
 
 # mkdocs documentation
@@ -99,3 +99,11 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+/bin
+/include
+/lib
+/.idea
+/.DS_Store
+pip-selfcheck.json
+
