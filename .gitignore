@@ -104,6 +104,7 @@ ENV/
 /include
 /lib
 /.idea
-/.DS_Store
+/data/.DS_Store
+.DS_Store
 pip-selfcheck.json
 
