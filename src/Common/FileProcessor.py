@@ -10,9 +10,15 @@ class FileProcessor(object):
 
         return result
 
-    def file_write(self, codeType, arrayContents):
+    def file_writeLines(self, codeType, arrayContents):
         with codecs.open(self.file_path, 'w', codeType) as f:
             f.writelines(arrayContents)
+
+        return self.file_path
+
+    def file_write(self, codeType, content):
+        with codecs.open(self.file_path, 'w', codeType) as f:
+            f.writelines(content)
 
         return self.file_path
 

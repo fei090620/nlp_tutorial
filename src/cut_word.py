@@ -93,6 +93,11 @@ def cut_save_words(files, sentences_file_dir_path, textPreparer, words_dir):
         print u'不标记分词：', u'{0}/{1}'.format(i + 1, len(texts)), str(end)
 
 
+# 在处理分词的过程中，很多具体的业务场景是不能把第三方分词工具
+# 当作黑箱来使用，很多时候，他们只能提供基本的分词功能，分词
+# 好坏与否关系到后续计算的准确与否，所以很多时候需要自己添加
+# 分词逻辑，技术一点，分词的结果和业务场景越匹配，那么通过NLP
+# 达到业务目标就越容易
 if __name__ == '__main__':
     files, texts = get_files_texts(texts_dir)
     stop_words = FileProcessor(stop_words_file).file_read('utf8', '\n')

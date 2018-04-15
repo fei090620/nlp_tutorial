@@ -19,12 +19,12 @@ class TextPreparer(object):
 
     def saveSentences2file(self, target_dir, file_name, sentences):
         file = os.path.join(target_dir, file_name)
-        FileProcessor(file).file_write('utf8', u'\n'.join(sentences))
+        FileProcessor(file).file_writeLines('utf8', u'\n'.join(sentences))
         return file
 
     def saveWords2file(self, target_dir, file_name, words_list):
         file = os.path.join(target_dir, file_name)
-        FileProcessor(file).file_write('utf8', u'\n'.join([u' '.join(words) for words in words_list]))
+        FileProcessor(file).file_writeLines('utf8', u'\n'.join([u' '.join(words) for words in words_list]))
         return file
 
     # 句子分词并且标记
@@ -38,7 +38,7 @@ class TextPreparer(object):
 
         return tagged_words_list
 
-    # 句子分词并，并替换同义词
+    # 句子分词，并替换同义词
     def cutSentence2Words_without_tagged(self, sentences, stop_words, similar_words):
         words_list = []
         for sentence in sentences:
