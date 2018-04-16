@@ -1,0 +1,255 @@
+原/n/Ed51A01= 标题/n/Dd15A12=
+全国/n/Di02A02= 人代会/n/Di23A07# 宪法/n/Di25A03= 宣誓/v/Hi14E01=
+历史/n/Da07A01= 首次/m/Dd07A07=
+
+全国人民代表大会/nt/ 首场/n/ 宪法/n/Di25A03= 宣誓/v/Hi14E01= 活动/vn/Eb34B01=
+月/m/Bd02B01= 17/eng/ 日/m/Bd02A01=
+
+宣誓/v/Hi14E01= 活动/vn/Eb34B01=
+18/eng/ 日/m/Bd02A01=
+19/eng/ 日/m/Bd02A01=
+此前/t/Ca11A05= 十三届/m/ 全国人大/nt/Dm01A69# 会议/n/Di23A01= 新闻/n/Da01A15= 发布会/n/Di23A07#
+发言人/l/Aj13B02= 张业遂/nr/ 介绍/v/Hg12E01=
+宪法/n/Di25A03= 宣誓/v/Hi14E01= 制度/n/Di09B01= 实行/v/Ie13A01=
+首次/m/Dd07A07= 全国人民代表大会/nt/ 宪法/n/Di25A03= 宣誓/v/Hi14E01= 活动/vn/Eb34B01=
+
+宪法/n/Di25A03= 宣誓/v/Hi14E01=
+中国/ns/Di02A03= 宪法/n/Di25A03= 宣誓/v/Hi14E01= 制度/n/Di09B01= 始于/d/Ig01A01= 2014/eng/ 年/m/Ca14A01= 10/eng/ 月/m/Bd02B01=
+
+当月/t/Ca21A16#
+十八/m/ 届/d/Ie16B01= 四中全会/j/Di23A09# 审议/v/Hc14B01= 中共中央/nt/Dm01A73# 推进/v/Hj67A10# 依法治国/ns/ 若干/m/Dn05B02=
+提出/v/Hi12A51# 建立/v/Hc05A01= 宪法/n/Di25A03= 宣誓/v/Hi14E01= 制度/n/Di09B01=
+
+建立/v/Hc05A01= 宪法/n/Di25A03= 宣誓/v/Hi14E01= 制度/n/Di09B01=
+人大/j/Di23A07# 常委会/j/Di09D62# 选举/v/Hc23A01= 任命/n/Hc25A01= 国家/n/Di02A01= 工作人员/n/ 正式/ad/Ed53A01= 就职/v/Hc27A01= 时/n/Ca02B01= 公开/ad/Ed44A01= 宪法/n/Di25A03= 宣誓/v/Hi14E01=
+
+
+多月/m/
+2014/eng/ 年/m/Ca14A01= 12/eng/ 月/m/Bd02B01= 日/m/Bd02A01=
+首个/m/
+国家/n/Di02A01= 宪法/n/Di25A03= 日/m/Bd02A01=
+
+全国/n/Di02A02= 纷纷/d/Eb01C02= 宪法/n/Di25A03= 宣誓/v/Hi14E01= 活动/vn/Eb34B01=
+尚未/d/Ka18B01= 统一/vn/Ie08B01= 规范/n/Dd11A01=
+宣誓/v/Hi14E01= 形式/n/Dc01C01=
+内容/n/Dk10A01=
+
+半年/m/Ca03B05#
+2015/eng/ 年/m/Ca14A01= 月/m/Bd02B01= 日/m/Bd02A01=
+十二届/m/ 全国人大常委会/nt/Di09D62# 第十五次/m/ 会议/n/Di23A01= 全国人民代表大会常务委员会/nt/ 实行/v/Ie13A01= 宪法/n/Di25A03= 宣誓/v/Hi14E01= 制度/n/Di09B01= 简称/v/Dd15A33#
+立法/d/Hc05A04= 方式/n/Db09A01= 确立/v/Hc05A01= 我国/r/Di02A14= 宪法/n/Di25A03= 宣誓/v/Hi14E01= 制度/n/Di09B01=
+
+早/a/Ca27B01= 提出/v/Hi12A51# 建立/v/Hc05A01= 宪法/n/Di25A03= 宣誓/v/Hi14E01= 制度/n/Di09B01=
+2014/eng/ 年/m/Ca14A01= 11/eng/ 月/m/Bd02B01=
+国务院/nt/Dm01A68# 法制/n/Di09B08# 办公室/n/Bn03A28# 副/b/Aj09A01= 主任/b/Af10B01= 袁/nr/Dd15B20# 曙/n/Ca27A01= 宏/n/Ea03A01= 新闻/n/Da01A15= 发布会/n/Di23A07#
+我国/r/Di02A14= 建立/v/Hc05A01= 宪法/n/Di25A03= 宣誓/v/Hi14E01= 制度/n/Di09B01=
+借鉴/v/Da16B02= 国际惯例/n/
+世界/n/Dd05B03= 142/eng/ 国家/n/Di02A01= 成文宪法/n/
+97/eng/ 国家/n/Di02A01= 宪法/n/Di25A03= 宣誓/v/Hi14E01= 制度/n/Di09B01=
+
+
+宪法/n/Di25A03= 宣誓/v/Hi14E01= 国家/n/Di02A01=
+
+誓词/n/Dk11A24= 70/eng/ 字/n/Bg07A19= 75/eng/ 字/n/Bg07A19=
+
+宣誓/v/Hi14E01=
+忠于/v/Ee06A01= 中华人民共和国宪法/nz/
+维护/v/Hi37D01= 宪法/n/Di25A03= 权威/nr/Al03B04=
+履行/v/Ie13A01= 法定/n/Ed45A01= 职责/n/Di22A03=
+忠于祖国/i/
+忠于/v/Ee06A01=
+恪尽职守/l/Ee27A01=
+廉洁奉公/nr/Ee41A01=
+接受/v/Hc07A01= 监督/vn/Hc19A01=
+建设/vn/Hc05A17# 富强/v/Ed19B02= 民主/n/Ee38A01= 文明/nr/Dk01A01= 和谐/a/Ed33A01= 美丽/ns/Eb30A01= 现代化/vn/Ih01B05# 强国/n/Di02A08= 努力奋斗/nr/
+
+
+全国人民代表大会/nt/ 历史/n/Da07A01= 第一次/m/ 宪法/n/Di25A03= 宣誓/v/Hi14E01=
+誓词/n/Dk11A24= 75/eng/ 字/n/Bg07A19=
+
+宣誓/v/Hi14E01= 制度/n/Di09B01= 确立/v/Hc05A01= 时/n/Ca02B01= 字/n/Bg07A19=
+
+2015/eng/ 年/m/Ca14A01= 月/m/Bd02B01= 24/eng/ 日/m/Bd02A01=
+草案/n/Dk17B20# 提请/v/Hc14A03@ 第十二届/m/ 全国人民代表大会常务委员会/nt/ 第十五次/m/ 会议/n/Di23A01= 审议/v/Hc14B01= 时/n/Ca02B01=
+十二届/m/ 全国人大常委会/nt/Di09D62# 副/b/Aj09A01= 秘书长/n/Af10B08# 韩/j/Dd15B20# 晓/nr/Gb08A01= 武/n/Dd15B20# 中/f/Aj14C01= 说/v/Fc05C01@
+公职人员/n/ 宣誓/v/Hi14E01= 统一/vn/Ie08B01= 誓词/n/Dk11A24=
+世界/n/Dd05B03= 各国/r/Ed61D01= 做法/v/Db09A31#
+
+提到/v/Hi12A51#
+调研/vn/Hc18A01= 中/f/Aj14C01= 同志/n/Aa03A05=
+宣誓/v/Hi14E01= 人员/n/Aa01A03= 级别/n/Dd06B29#
+种类/n/Dd06B01=
+工作/vn/Di19A01= 各不相同/l/
+忠于/v/Ee06A01= 宪法/n/Di25A03=
+遵守/v/Hi39A01= 宪法/n/Di25A03=
+维护/v/Hi37D01= 宪法/n/Di25A03=
+履行/v/Ie13A01= 宪法/n/Di25A03= 职责/n/Di22A03=
+誓词/n/Dk11A24=
+
+统一/vn/Ie08B01=
+规范/n/Dd11A01= 誓词/n/Dk11A24= 有利于/v/Je10A01= 保证/v/Di24B08= 宣誓/v/Hi14E01= 严肃性/nr/Dd01A38#
+
+一周/m/ 正式/ad/Ed53A01= 宣誓/v/Hi14E01= 制度/n/Di09B01=
+誓词/n/Dk11A24= 70/eng/ 字/n/Bg07A19=
+
+宣誓/v/Hi14E01=
+忠于/v/Ee06A01= 中华人民共和国宪法/nz/
+维护/v/Hi37D01= 宪法/n/Di25A03= 权威/nr/Al03B04=
+履行/v/Ie13A01= 法定/n/Ed45A01= 职责/n/Di22A03=
+忠于祖国/i/
+忠于/v/Ee06A01=
+恪尽职守/l/Ee27A01=
+廉洁奉公/nr/Ee41A01=
+接受/v/Hc07A01= 监督/vn/Hc19A01=
+建设/vn/Hc05A17# 富强/v/Ed19B02=
+民主/n/Ee38A01=
+文明/nr/Dk01A01=
+和谐/a/Ed33A01= 国家/n/Di02A01= 努力奋斗/nr/
+
+
+不难/d/Ed07C01= 发现/v/Gb02A02=
+宣誓/v/Hi14E01= 誓词/n/Dk11A24= 字/n/Bg07A19=
+变化/vn/Da02A01= 努力奋斗/nr/ 目标/n/Da28B01=
+
+建设/vn/Hc05A17# 富强/v/Ed19B02=
+民主/n/Ee38A01=
+文明/nr/Dk01A01=
+和谐/a/Ed33A01= 国家/n/Di02A01=
+改为/v/Ih01B01=
+建设/vn/Hc05A17# 富强/v/Ed19B02= 民主/n/Ee38A01= 文明/nr/Dk01A01= 和谐/a/Ed33A01= 美丽/ns/Eb30A01= 现代化/vn/Ih01B05# 强国/n/Di02A08=
+
+
+全国人大常委会法工委/nt/ 副/b/Aj09A01= 主任/b/Af10B01= 张/q/Dn08A29= 勇/n/Ee13A01= 受/v/Je13A01= 委员长/n/Af10A04# 会议/n/Di23A01= 委托/n/Hi25B01= 作/v/Dk19A01= 相关/v/Je01C01= 修订/v/Hg18C01= 草案/n/Dk17B20# 时说/n/
+地方/n/Cb08A01=
+部门/n/Di09D03= 同志/n/Aa03A05= 建议/n/Dk13A01=
+党/n/Di07A01= 十九/m/ 精神/n/Dd08B01= 十九/m/ 届/d/Ie16B01= 二中全会/j/Di23A09# 修改/v/Hg18B01=
+
+
+建议/n/Dk13A01= 拥护/v/Gb15C01= 改为/v/Ih01B01= 忠于/v/Ee06A01=
+
+
+宪法/n/Di25A03= 誓词/n/Dk11A24= 版本/n/Dk20C01= 65/eng/ 字/n/Bg07A19=
+
+宣誓/v/Hi14E01=
+拥护/v/Gb15C01= 中华人民共和国宪法/nz/
+维护/v/Hi37D01= 宪法/n/Di25A03= 权威/nr/Al03B04=
+履行/v/Ie13A01= 宪法/n/Di25A03= 职责/n/Di22A03=
+恪尽职守/l/Ee27A01=
+廉洁奉公/nr/Ee41A01=
+忠于祖国/i/
+忠于/v/Ee06A01=
+自觉/d/Gc01A02= 接受/v/Hc07A01= 监督/vn/Hc19A01=
+中国/ns/Di02A03= 特色/n/Dd04A01= 伟大事业/nz/ 努力奋斗/nr/
+
+
+提交/v/Hi27A01= 审议/v/Hc14B01= 时/n/Ca02B01= 草案/n/Dk17B20# 版本/n/Dk20C01=
+
+
+草案/n/Dk17B20# 审议/v/Hc14B01= 中/f/Aj14C01=
+十二届/m/ 全国人大常委会/nt/Di09D62# 委员/n/Aj07A08# 辜胜阻/nr/ 提出/v/Hi12A51#
+建议/n/Dk13A01= 宣誓/v/Hi14E01= 誓词/n/Dk11A24= 中/f/Aj14C01=
+中国/ns/Di02A03= 特色/n/Dd04A01= 伟大事业/nz/ 努力奋斗/nr/
+
+改为/v/Ih01B01=
+建设/vn/Hc05A17# 富强/v/Ed19B02=
+民主/n/Ee38A01=
+文明/nr/Dk01A01=
+和谐/a/Ed33A01= 现代化/vn/Ih01B05# 国家/n/Di02A01= 奋斗/v/Hj08A01=
+
+
+
+改/v/Hg18B01=
+
+辜胜阻/nr/ 说/v/Fc05C01@
+
+富强/v/Ed19B02=
+民主/n/Ee38A01=
+文明/nr/Dk01A01=
+和谐/a/Ed33A01= 现代化/vn/Ih01B05# 国家/n/Di02A01= 建设/vn/Hc05A17# 目标/n/Da28B01=
+中国/ns/Di02A03= 特色/n/Dd04A01= 发展/vn/Ie12A01= 方向/n/Cb01A01=
+
+
+
+应/v/Gc03A01= 忠于/v/Ee06A01= 宪法/n/Di25A03= 誓词/n/Dk11A24= 内容/n/Dk10A01= 表述/v/Hi14B01=
+
+十二届/m/ 全国人大常委会/nt/Di09D62# 委员/n/Aj07A08# 徐显明/nr/ 提出/v/Hi12A51# 建议/n/Dk13A01= 细/a/Ea03C01=
+
+第一句/m/ 拥护/v/Gb15C01= 中华人民共和国宪法/nz/ 中/f/Aj14C01= 拥护/v/Gb15C01= 词/n/Dk06A01= 分量/n/Dd13C02=
+建议/n/Dk13A01= 拥护/v/Gb15C01= 改为/v/Ih01B01= 忠于/v/Ee06A01=
+忠于/v/Ee06A01= 中/f/Aj14C01= 包含/v/Jd06C01= 遵守/v/Hi39A01= 捍卫/v/Hb04A01= 含义/n/Db06C01=
+
+
+建议/n/Dk13A01=
+履行/v/Ie13A01= 宪法/n/Di25A03= 职责/n/Di22A03=
+改为/v/Ih01B01=
+履行/v/Ie13A01= 法定/n/Ed45A01= 职责/n/Di22A03=
+
+
+公职人员/n/ 履行/v/Ie13A01= 宪法/n/Di25A03= 职责/n/Di22A03=
+
+
+意见/n/Df14B01=
+最终/d/Da06B01= 体现/v/Ja03C01= 誓词/n/Dk11A24= 里/f/Bc02C05=
+65/eng/ 字/n/Bg07A19= 70/eng/ 字/n/Bg07A19=
+字数/n/Dn03A06= 字/n/Bg07A19=
+变化/vn/Da02A01= 一点/m/Bb02B01=
+
+首次/m/Dd07A07= 宪法/n/Di25A03= 宣誓/v/Hi14E01= 仪式/n/Di13A01=
+2016/eng/ 年/m/Ca14A01= 月/m/Bd02B01= 日/m/Bd02A01=
+全国人大常委会/nt/Di09D62# 正式/ad/Ed53A01= 实行/v/Ie13A01= 宪法/n/Di25A03= 宣誓/v/Hi14E01= 制度/n/Di09B01=
+沈春耀/nr/ 介绍/v/Hg12E01=
+迄今已/l/ 12/eng/ 次/q/Ca06B01= 45/eng/ 人次/n/Dn09B03# 宪法/n/Di25A03= 宣誓/v/Hi14E01=
+
+宪法/n/Di25A03= 宣誓/v/Hi14E01= 制度/n/Di09B01=
+2016/eng/ 年/m/Ca14A01= 月/m/Bd02B01= 26/eng/ 日/m/Bd02A01=
+十二届/m/ 全国人大常委会/nt/Di09D62# 首次/m/Dd07A07= 宪法/n/Di25A03= 宣誓/v/Hi14E01= 仪式/n/Di13A01=
+十二届/m/ 全国人大常委会/nt/Di09D62# 委员长/n/Af10A04# 张德江/nr/ 主持/v/Gb02C01= 监/vn/Dm01A45# 誓/vg/Dk11A24=
+
+
+十二届/m/ 全国人大常委会/nt/Di09D62# 第十九次/m/ 会议/n/Di23A01= 任命/n/Hc25A01= 全国人大/nt/Dm01A69# 委员会/n/Di09D62# 副/b/Aj09A01= 主任委员/n/Aj07A08#
+常委会/j/Di09D62# 工作/vn/Di19A01= 委员会/n/Di09D62# 副/b/Aj09A01= 主任/b/Af10B01= 名/q/Da26A01= 国家/n/Di02A01= 工作人员/n/
+依法/n/Hi39A04# 宪法/n/Di25A03= 宣誓/v/Hi14E01=
+
+下午/t/Ca28C01= 点/m/Bb02B01=
+张德江/nr/ 宪法/n/Di25A03= 宣誓/v/Hi14E01= 仪式/n/Di13A01=
+起立/v/Fb03C05= 同唱/v/ 中华人民共和国/ns/Di02A30# 国歌/n/Dk28B08#
+
+领/v/Bk05A01= 誓/vg/Dk11A24=
+新/a/Eb22A02= 任命/n/Hc25A01= 十二届/m/ 全国人大/nt/Dm01A69# 财政经济委员会/nt/ 副/b/Aj09A01= 主任委员/n/Aj07A08# 刘/zg/Dd15B20# 源/ng/Cb08A06= 走/v/Fb01A01= 宣誓/v/Hi14E01= 台前/s/
+左手/m/Cb03C01= 抚/ns/Hi35A01= 宪法/n/Di25A03=
+右手/n/Cb03D01= 举/v/Eb02C01= 拳/zg/Bk08C05=
+宣读/v/Hg10C01= 誓词/n/Dk11A24=
+站/v/Bn17B02= 领/v/Bk05A01= 誓/vg/Dk11A24= 身后/f/Ca12A06=
+举起/v/Fa04A01= 右拳/n/
+诵/vg/Hg10C01= 誓词/n/Dk11A24=
+
+十二届/m/ 全国人大常委会/nt/Di09D62# 副委员长/n/ 兼/v/Hj24D01= 秘书长/n/Af10B08# 王/nr/Af05A01= 晨/zg/Ca27B01= 全国人大/nt/Dm01A69# 机关/n/Da01A34= 负责同志/n/
+全国人大/nt/Dm01A69# 机关干部/n/ 约/d/Di24B01= 50/eng/ 参加/v/Hj19B01=
+
+
+2016/eng/ 年/m/Ca14A01= 月/m/Bd02B01= 13/eng/ 日/m/Bd02A01=
+最高人民法院/nt/Dm01A43= 新任/n/Hc27A01= 法官/n/Ae12B01= 宪法/n/Di25A03= 宣誓/v/Hi14E01= 仪式/n/Di13A01=
+法/j/Db09A01= 首次/m/Dd07A07= 新任/n/Hc27A01= 法官/n/Ae12B01= 宪法/n/Di25A03= 宣誓/v/Hi14E01= 仪式/n/Di13A01=
+最高人民法院/nt/Dm01A43= 院长/n/Af10B06# 周/nr/Ca22B01= 强/a/Di02A08= 监督/vn/Hc19A01=
+最高人民法院/nt/Dm01A43= 常务副/n/ 院长/n/Af10B06# 沈/nr/Dd15B20# 德/ns/Da11A01= 咏/n/Hg10D01= 带领/v/Hc09C01= 45/eng/ 位/q/Cb01B01= 新任/n/Hc27A01= 法官/n/Ae12B01= 宣读/v/Hg10C01= 70/eng/ 字/n/Bg07A19= 誓词/n/Dk11A24=
+
+2016/eng/ 年/m/Ca14A01= 月/m/Bd02B01= 18/eng/ 日/m/Bd02A01=
+国务院/nt/Dm01A68# 首次/m/Dd07A07= 宪法/n/Di25A03= 宣誓/v/Hi14E01= 仪式/n/Di13A01=
+国务院/nt/Dm01A68# 总理/n/Af10A04# 李克强/nr/ 监/vn/Dm01A45# 誓/vg/Dk11A24=
+2016/eng/ 年/m/Ca14A01= 国务院/nt/Dm01A68# 任命/n/Hc25A01= 38/eng/ 部门/n/Di09D03=
+直属/n/Ja06B02= 特设/n/Hc05B08# 机构/n/Di09D02=
+直属机构/n/
+办事机构/n/
+直属/n/Ja06B02= 事业单位/n/Dm01A23@ 55/eng/ 名/q/Da26A01= 负责人/n/Af10B01= 依法/n/Hi39A04# 宪法/n/Di25A03= 宣誓/v/Hi14E01=
+
+地方/n/Cb08A01=
+中国/ns/Di02A03= 人大/j/Di23A07# 杂志/n/Dk21B01= 报道/v/Dk26C03=
+截止/v/Ig01B01= 2016/eng/ 年/m/Ca14A01= 月底/t/Ca09C01=
+我国/r/Di02A14= 31/eng/ 省/n/Di02B02= 自治区/n/Di02B14#
+直辖市/n/Di02B14# 制定/v/Hc14D01= 实施/v/Ie13A01= 宪法/n/Di25A03= 宣誓/v/Hi14E01= 制度/n/Di09B01= 办法/n/Db09A01=
+
+本文/r/Dk22B01= 来源/n/Db02B01=
+政/n/Da01A01= 知/v/Dk02C01=
+责任编辑/n/
+杨/nr/Dd15B20# 强/a/Di02A08=
+NN6027/eng/

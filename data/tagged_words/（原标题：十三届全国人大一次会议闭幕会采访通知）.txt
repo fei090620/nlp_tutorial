@@ -1,0 +1,31 @@
+原/n/Ed51A01= 标题/n/Dd15A12=
+十三届/m/ 全国人大/nt/Dm01A69# 会议/n/Di23A01= 闭幕会/n/Di23A07# 采访/v/Hj25A01= 通知/v/Dk14B01=
+月/m/Bd02B01= 20/eng/ 日/m/Bd02A01= 星期二/t/Ca22B03= 上午/t/Ca28A01= 时/n/Ca02B01=
+第十三届/m/ 全国人民代表大会/nt/ 第一次/m/ 会议/n/Di23A01= 人民大会堂/nt/Bn03A29# 闭幕会/n/Di23A07#
+
+记者/n/Ae16C01= 会议/n/Di23A01= 制/n/Di09B01= 发/v/Bk11B01= 记者证/n/Bp19B09# 媒体/n/Ae16C04= 保障/v/Hi37D01= 证/n/Bp19B01= 提前/v/Ih07A01= 小时/n/Ca30A01= 30/eng/ 分钟/q/Ca30A04# 人民大会堂/nt/Bn03A29# 东门/ns/Bn04A14# 南侧/f/Bc02C07= 第一个/m/ 门/n/Bc05A01= 安检/v/Hc18C08# 入场/n/Hj20A02@
+二楼/n/ 记者证/n/Bp19B09#
+楼/n/Bn01B03= 记者证/n/Bp19B09# 大礼堂/nr/Bn03A29# 二楼/n/ 前/f/Ca11A06= 三区/ns/ 11/eng/ 排/v/Bo22B03= 含/v/Fc07A01= 11/eng/ 排/v/Bo22B03= 前/f/Ca11A06=
+区/n/Di02B14#
+记者席/n/Cb01B11#
+就座/v/Fb03A06=
+各楼层/l/ 采访/v/Hj25A01= 记者/n/Ae16C01=
+请/v/Hc24A01= 会议/n/Di23A01= 前/f/Ca11A06= 分钟/q/Ca30A04# 停止/v/Ig02A01= 现场报道/n/ 活动/vn/Eb34B01=
+会议/n/Di23A01=
+请/v/Hc24A01= 安静/nr/Ef01B01=
+
+会议/n/Di23A01= 前/f/Ca11A06= 结束/v/Ig01B01=
+记者/n/Ae16C01= 人民大会堂/nt/Bn03A29# 东门外/s/Cb05B09# 台阶/n/Bn10B01= 广场/n/Bn09C01@ 西侧/f/Bc02C10@ 路/n/Bn11A01= 大礼堂/nr/Bn03A29# 外/f/Ae17A10= 采访/v/Hj25A01= 活动/vn/Eb34B01=
+前/f/Ca11A06= 采访/v/Hj25A01= 活动/vn/Eb34B01= 请/v/Hc24A01= 大会/n/Di23A06# 前/f/Ca11A06= 15/eng/ 分钟/q/Ca30A04# 停止/v/Ig02A01=
+会议/n/Di23A01= 前/f/Ca11A06=
+人民大会堂/nt/Bn03A29# 中央/n/Cb04C01= 大厅/n/Bn03A05=
+代表/n/Aj13B01= 通道/v/Cb27A04=
+采访/v/Hj25A01= 代表/n/Aj13B01=
+
+记者/n/Ae16C01= 车辆/n/Bo21A01= 请/v/Hc24A01= 天安门广场/ns/Cb28A41# 东侧/f/Bc02C08= 路/n/Bn11A01= 入口/ns/Cb20D01= 进/v/Dn08A03= 指定/v/Hc04B02= 停车场/n/Cb28A19# 依次/d/Ka24B01= 停放/v/Fa13A01=
+
+本文/r/Dk22B01= 来源/n/Db02B01=
+人大/j/Di23A07# 会议/n/Di23A01= 新闻/n/Da01A15= 中心/n/Cb04C01=
+责任编辑/n/
+姬/zg/Ah08B07= 雪/n/Bf01B01= 莹/nr/
+NN6784/eng/
