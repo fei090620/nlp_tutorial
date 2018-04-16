@@ -76,4 +76,15 @@ class TextPreparer(object):
 
         return replaced_words
 
+    # 合并所有词(不去重，去重了怎么统计词频？，去除空格,换行,空字符)
+    def combine_all_words(self, words_dir):
+        words = []
+        files = os.listdir(words_dir)
+        for file in files:
+            single_words = FileProcessor(os.path.join(words_dir, file)).file_read('utf8', '\n')
+            bool_list = [word is not u'' for word in single_words]
+            words.append(u' '.join(np.array(single_words)[bool_list]))
+
+        return words, files
+
 
