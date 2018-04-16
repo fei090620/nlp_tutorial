@@ -1,14 +1,20 @@
 # ! -*- coding:utf-8 -*-
+import logging
+
 import os
 from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
 
 from src.Common.FileProcessor import FileProcessor
 from src.Common.TextPreparer import TextPreparer
 
+logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
+
+
 file_path = lambda: os.path.dirname(__file__)
 
 words_dir = file_path() + '/../data/words/'
 tfidf_target_path = file_path() + '/../data/tfidf_vectors/'
+
 
 
 class TF_IDF(object):
