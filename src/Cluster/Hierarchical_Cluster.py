@@ -10,9 +10,9 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=lo
 
 file_path = lambda: os.path.dirname(__file__)
 
-doc2vec_model_file = file_path() + '/../data/word2vecs/doc2vec_model.txt'
+doc2vec_model_file = file_path() + '/../../data/word2vecs/doc2vec_model.txt'
 
-map_file = file_path() + '/../data/word2vecs/tagged_map.txt'
+map_file = file_path() + '/../../data/word2vecs/tagged_map.txt'
 
 def train_cluster_by_hierarchical(vectors, num_clusters=10):
     # scipy的层次聚类（可以获取聚类的过程）

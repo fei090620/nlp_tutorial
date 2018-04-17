@@ -12,8 +12,8 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=lo
 
 file_path = lambda: os.path.dirname(__file__)
 
-words_dir = file_path() + '/../data/words/'
-tfidf_target_path = file_path() + '/../data/tfidf_vectors/'
+words_dir = file_path() + '/../../data/words/'
+tfidf_target_path = file_path() + '/../../data/tfidf_vectors/'
 
 
 def calculate_and_save_tf_idf_dict(words_list):

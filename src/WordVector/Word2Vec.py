@@ -10,8 +10,8 @@ from src.Common.TextPreparer import TextPreparer
 
 file_path = lambda: os.path.dirname(__file__)
 
-words_dir = file_path() + '/../data/words/'
-word2vec_taget_dir = file_path() + '/../data/word2vecs/'
+words_dir = file_path() + '/../../data/words/'
+word2vec_taget_dir = file_path() + '/../../data/word2vecs/'
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
