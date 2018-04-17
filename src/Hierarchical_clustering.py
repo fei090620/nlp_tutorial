@@ -1,13 +1,10 @@
 # ! -*- coding:utf-8 -*-
 import logging
 
-import numpy as np
+import matplotlib.pyplot as plt
 import os
 from gensim.models import doc2vec
 from scipy.cluster.hierarchy import linkage, dendrogram, fcluster
-from sklearn.datasets.samples_generator import make_blobs
-import matplotlib.pyplot as plt
-
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
@@ -18,7 +15,7 @@ doc2vec_model_file = file_path() + '/../data/word2vecs/doc2vec_model.txt'
 map_file = file_path() + '/../data/word2vecs/tagged_map.txt'
 
 def train_cluster_by_hierarchical(vectors, num_clusters=10):
-    # scipy的层次聚类（可以后去聚类的过程）
+    # scipy的层次聚类（可以获取聚类的过程）
     clusters_result = linkage(vectors, method='ward', metric='euclidean')
 
     #sklearn 层次聚类
