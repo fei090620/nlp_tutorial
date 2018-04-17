@@ -16,23 +16,22 @@ words_dir = file_path() + '/../data/words/'
 tfidf_target_path = file_path() + '/../data/tfidf_vectors/'
 
 
+def calculate_and_save_tf_idf_dict(words_list):
+    vector = CountVectorizer(lowercase=False)
+    vector_matrix = vector.fit_transform(words_list)
+    tfidf_matrix = TfidfTransformer(use_idf=False).fit_transform(vector_matrix)
+    return tfidf_matrix
 
-class TF_IDF(object):
-    def calculate_and_save_tf_idf_dict(self, words_list):
-        vector = CountVectorizer(lowercase=False)
-        vector_matrix = vector.fit_transform(words_list)
-        tfidf_matrix = TfidfTransformer(use_idf=False).fit_transform(vector_matrix)
-        return tfidf_matrix
 
-    def save_tfidf_words_dict2files(self, tfidfs_list, target_path, files):
-        length = len(files)
-        for i in range(length):
-            FileProcessor(os.path.join(target_path, files[i])).file_write('utf8', u' '.join([str(item) for item in tfidfs_list[i]]))
-            print '{0}/{1}'.format(i, length)
+def save_tfidf_words_dict2files(tfidfs_list, target_path, files):
+    length = len(files)
+    for i in range(length):
+        FileProcessor(os.path.join(target_path, files[i])).file_write('utf8', u' '.join([str(item) for item in tfidfs_list[i]]))
+        print '{0}/{1}'.format(i, length)
+
 
 if __name__ == '__main__':
-    tf_idf = TF_IDF()
     words_list, files = TextPreparer().combine_all_words(words_dir)
-    tfidf_matrix = tf_idf.calculate_and_save_tf_idf_dict(words_list)
+    tfidf_matrix = calculate_and_save_tf_idf_dict(words_list)
     print tfidf_matrix
-    tf_idf.save_tfidf_words_dict2files(tfidf_matrix.toarray(), tfidf_target_path, files)
+    save_tfidf_words_dict2files(tfidf_matrix.toarray(), tfidf_target_path, files)
