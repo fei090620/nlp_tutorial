@@ -2,13 +2,12 @@
 import logging
 
 import os
-from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
+from sklearn.feature_extraction.text import TfidfTransformer, HashingVectorizer
 
 from src.Common.FileProcessor import FileProcessor
 from src.Common.TextPreparer import TextPreparer
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
-
 
 file_path = lambda: os.path.dirname(__file__)
 
@@ -17,8 +16,8 @@ tfidf_target_path = file_path() + '/../../data/tfidf_vectors/'
 
 
 def calculate_and_save_tf_idf_dict(words_list):
-    vector = CountVectorizer(lowercase=False)
-    vector_matrix = vector.fit_transform(words_list)
+    vector = HashingVectorizer(lowercase=False, n_features=10)
+    vector_matrix = vector.fit_transform(iter(words_list))
     tfidf_matrix = TfidfTransformer(use_idf=False).fit_transform(vector_matrix)
     return tfidf_matrix
 

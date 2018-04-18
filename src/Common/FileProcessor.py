@@ -1,4 +1,7 @@
+from shutil import copyfile
+
 import codecs
+
 
 class FileProcessor(object):
     def __init__(self, file_path):
@@ -28,4 +31,21 @@ class FileProcessor(object):
 
         return result
 
+    def file_copy(self, dist_path):
+        copyfile(self.file_path, dist_path)
+
+
+# class DirProcessor(object):
+#     def __init__(self, dir_path):
+#         self.dir_path = dir_path
+#
+#     def dir_read_iterator(self, fileReader, **kwargs):
+#         files = os.listdir(self.dir_path)
+#         files_list = []
+#         for file in files:
+#             file_path = os.path.join(self.dir_path, file)
+#             file_data = fileReader(file_path, **kwargs)
+#             files_list.append((file, file_data))
+#
+#         return dict(files_list)
 
