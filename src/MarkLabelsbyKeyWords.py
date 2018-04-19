@@ -12,7 +12,8 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=lo
 file_path = lambda: os.path.dirname(__file__)
 
 lables_file_path = file_path() + '/../data/labels.txt'
-classifier_words_data_path = file_path() + '/../data/classifier_data/words'
+classifier_words_train_data_path = file_path() + '/../data/classifier_data/words/train/'
+classifier_words_test_data_path = file_path() + '/../data/classifier_data/words/test/'
 sample_words_dir = file_path() + '/../data/words/'
 
 class MarkLablesbyKeyWords(object):
@@ -32,7 +33,7 @@ class MarkLablesbyKeyWords(object):
             labels_dirs.append(label_dir)
         return labels_dirs
 
-    def MoveSampleWordsToLableDir(self, sample_words_file_dir, dist_dir_path):
+    def moveSampleWordsToLableDir(self, sample_words_file_dir, dist_dir_path):
         words_list, files = TextPreparer().combine_all_words(sample_words_file_dir)
         file_lables = []
         for words in words_list:
@@ -55,6 +56,7 @@ if __name__ == '__main__':
         print index, u' '.join(value)
 
     marker = MarkLablesbyKeyWords(labels_dict)
-    marker.mkdirforLables(classifier_words_data_path)
-    marker.MoveSampleWordsToLableDir(sample_words_dir, classifier_words_data_path)
+    marker.mkdirforLables(classifier_words_train_data_path)
+    marker.mkdirforLables(classifier_words_test_data_path)
+    marker.moveSampleWordsToLableDir(sample_words_dir, classifier_words_train_data_path)
 

@@ -82,8 +82,7 @@ class TextPreparer(object):
         files = os.listdir(words_dir)
         for file in files:
             single_words = FileProcessor(os.path.join(words_dir, file)).file_read('utf8', '\n')
-            bool_list = [word is not u'' for word in single_words]
-            words.append(u' '.join(np.array(single_words)[bool_list]))
+            words.append(u' '.join(filter(lambda x: x, single_words)))
 
         return words, files
 
