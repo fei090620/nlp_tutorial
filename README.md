@@ -77,7 +77,7 @@ Word2Vec从原理上讲就要复杂一些，这东西是Google团队搞的一种
 
 到这里不要被算法迷糊了双眼，Word2Vec最终的输出依然是词向量，只不过这里的词向量是算法中概率最大的模型参数而已。
 
-同样，Word2Vec也有很多开源工具的支持，除了Google开放的源码，还有[gensim](https://radimrehurek.com/gensim/)和DeepLearning4J(https://deeplearning4j.org/)，其中gensim对于python友好，DL4J对于java友好。
+同样，Word2Vec也有很多开源工具的支持，除了Google开放的源码，还有[gensim](https://radimrehurek.com/gensim/)和[DeepLearning4J](https://deeplearning4j.org/)，其中gensim对于python友好，DL4J对于java友好。
 
 ### 文本聚类
 
