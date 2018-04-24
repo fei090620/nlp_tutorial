@@ -62,18 +62,9 @@ NLP自然语言处理，到底是怎么处理的，有哪些常用的方法和�
 
 ####TF_TDF
 
-TF-IDF的计算相对简单：
-$$
-TF_{w} = \frac{在某一文本中词w出现的次数}{该文本中所有词的总数}
-$$
+TF-IDF的计算相对简单：(之所以要插个图片这么丑，因为github不支持LaTex，codecogs不支持中文导致的)
 
-$$
-IDF=log（\frac{语料库的文档总数}{包含词条w的文档数 + 1}）
-$$
-
-$$
-TF-IDF = {TF_{w}}\times{IDF}
-$$
+![TF-IDF](/Users/yangzhou/Desktop/TF-IDF.png)
 
 也有不少开源工具支撑，常用的是[scikit-learn](http://scikit-learn.org/stable/)，这里就不介绍用法了，scikit-learn的用户体验很友好，看看官方文档就能即可上手。
 
