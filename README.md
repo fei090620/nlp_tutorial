@@ -60,7 +60,7 @@ NLP自然语言处理，到底是怎么处理的，有哪些常用的方法和�
 
 基于分词的结果就可以生成每一个词的词向量，这里列举目前比较流行的两种方式：TF-IDF和Word2Vec。
 
-####TF_TDF
+#### TF_TDF
 
 TF-IDF的计算相对简单：(之所以要插个图片这么丑，因为github不支持LaTex，codecogs不支持中文导致的)
 
@@ -68,7 +68,7 @@ TF-IDF的计算相对简单：(之所以要插个图片这么丑，因为github�
 
 也有不少开源工具支撑，常用的是[scikit-learn](http://scikit-learn.org/stable/)，这里就不介绍用法了，scikit-learn的用户体验很友好，看看官方文档就能即可上手。
 
-####Word2Vec
+#### Word2Vec
 
 Word2Vec从原理上讲就要复杂一些，这东西是Google团队搞的一种算法，官网和源码在这里[Word2Vec](https://code.google.com/archive/p/word2vec/)，内部算法有两种：CBOW(Continuous Bag of Words)，Skip-gram。简单理解就是：
 
