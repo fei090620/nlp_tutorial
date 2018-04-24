@@ -64,7 +64,7 @@ NLP自然语言处理，到底是怎么处理的，有哪些常用的方法和�
 
 TF-IDF的计算相对简单：(之所以要插个图片这么丑，因为github不支持LaTex，codecogs不支持中文导致的)
 
-![TF-IDF](/Users/yangzhou/Desktop/TF-IDF.png)
+![TF-IDF](./TF-IDF.png)
 
 也有不少开源工具支撑，常用的是[scikit-learn](http://scikit-learn.org/stable/)，这里就不介绍用法了，scikit-learn的用户体验很友好，看看官方文档就能即可上手。
 
@@ -77,7 +77,7 @@ Word2Vec从原理上讲就要复杂一些，这东西是Google团队搞的一种
 
 到这里不要被算法迷糊了双眼，Word2Vec最终的输出依然是词向量，只不过这里的词向量是算法中概率最大的模型参数而已。
 
-同样，Word2Vec也有很多开源工具的支持，除了Google开放的源码，还有[gensim](https://radimrehurek.com/gensim/)和DeepLearning4J(https://deeplearning4j.org/)，其中gensim对于python友好，DL4J对于java友好。
+同样，Word2Vec也有很多开源工具的支持，除了Google开放的源码，还有[gensim](https://radimrehurek.com/gensim/)和[DeepLearning4J](https://deeplearning4j.org/)，其中gensim对于python友好，DL4J对于java友好。
 
 最后还是要记住一点，把文档词向量矩阵合理的**保存下来**。
 
