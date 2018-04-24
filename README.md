@@ -28,7 +28,7 @@ NLP自然语言处理，到底是怎么处理的，有哪些常用的方法和�
 
 选取开源工具的一个关键条件是：支持自定义词库！理由很明显，实际的业务场景总是有很多的专业名词，这些词不太可能在通用词库里有包含。比如：会议控制，业务场景里其实是一个词，但是通用的词库一般都会分成“会议”和“控制”两个词。
 
-### 去除停用词
+#### 去除停用词
 
 分词之后就要去除停用词，当然，这里停用词涵盖代词，副词等等。这里的去除停用词，更像是去除和语义关系不大的词，例如下面这段文本：
 
@@ -40,7 +40,7 @@ NLP自然语言处理，到底是怎么处理的，有哪些常用的方法和�
 
 去除停用词，也有开源工具可以使用，包括[jieba](https://github.com/fxsjy/jieba)等，不过这个逻辑比较简单，自己实现也未尝不可。
 
-### 处理同义词或同类词
+#### 处理同义词或同类词
 
 同义词，并不是传统意义上的同义词，正确的解释应该是基于具体的业务场景下可以彼此替换的词，比如在求助邮件的场景下，“\*\*打不开”和“\*\*打开失败”其实是一个意思，所以需要总结出业务场景下的一个同义词词典，然后对于分词的结果进行同义词替换，替换是比较粗暴的做法，但是对于后续生成词向量，计算相似度非常有效。
 
@@ -56,6 +56,10 @@ NLP自然语言处理，到底是怎么处理的，有哪些常用的方法和�
 
 最后，一定记得把词的处理结果**保存**下来。
 
+这部分内容的练习代码在：[TextPreparer.py](https://github.com/fei090620/nlp_tutorial/blob/master/src/Common/TextPreparer.py)。
+
+------
+
 ### 生成词向量
 
 基于分词的结果就可以生成每一个词的词向量，这里列举目前比较流行的两种方式：TF-IDF和Word2Vec。
@@ -67,6 +71,8 @@ TF-IDF的计算相对简单：(之所以要插个图片这么丑，因为github�
 ![TF-IDF](./TF-IDF.png)
 
 也有不少开源工具支撑，常用的是[scikit-learn](http://scikit-learn.org/stable/)，这里就不介绍用法了，scikit-learn的用户体验很友好，看看官方文档就能即可上手。
+
+这部分的练习代码在：[TF_IDF.py](https://github.com/fei090620/nlp_tutorial/blob/master/src/WordVector/TF_IDF.py)。
 
 #### Word2Vec
 
@@ -80,6 +86,8 @@ Word2Vec从原理上讲就要复杂一些，这东西是Google团队搞的一种
 同样，Word2Vec也有很多开源工具的支持，除了Google开放的源码，还有[gensim](https://radimrehurek.com/gensim/)和[DeepLearning4J](https://deeplearning4j.org/)，其中gensim对于python友好，DL4J对于java友好。
 
 最后还是要记住一点，把文档词向量矩阵合理的**保存**下来。
+
+这部分的练习代码在：[Word2Vec.py](https://github.com/fei090620/nlp_tutorial/blob/master/src/WordVector/Word2Vec.py)。
 
 ### 文本聚类
 
