@@ -102,13 +102,23 @@ Word2Vec从原理上讲就要复杂一些，这东西是Google团队搞的一种
 * 文本聚类一定要做；
 * 不要浪费更多精力去提升文本聚类的精度。
 
-那文本聚类怎么做呢？常用的算法：K-Means聚类和层次聚类算法。
+那文本聚类怎么做呢？常用的算法：K-Means聚类和层次聚类算法。适用的场景略有不同，其中K-Means算法适用于样本的标签比较独立，也就是多数样本只有一个标签，标签多数属于同一个级别；层次聚类则适用于样本的标签有交叠，有层次结构，样本多数都包含多个标签。之所以有这种区别，主要是算法的思路决定的。
 
+K-Means必须指定cluster的个数，然后基于初始样本根据欧式距离进行聚类计算；层次聚类没有初始指定Cluster个数的概念，只是基于某一个样本根据欧式距离的远和近进行合并和分裂，所以cluster具有层级结构。
 
+实际情况，这两种算法的实验都是要做的，目的就是去探索样本本身的特点，这里的欧式距离其实不一定是范式距离，只要是评估相似度的指标都可以使用，例如cos等。
+
+对于聚类，往往很难获取较好的结果，当然优化的点自然是模型使用的相似度的计算方法，不过，可以多尝试，不要偏执就好。实际工作中，还是建议尽快产出，尽快让业务专家参与进来比较好。
+
+对于K-Means和层次聚类的算法，在scikit-learn中都有现成的实现，调用即可。
+
+这部分的练习代码在：[K_Means_Cluster.py](https://github.com/fei090620/nlp_tutorial/blob/master/src/Cluster/K_Means_Cluster.py)和[Hierarchical_Cluster.py](https://github.com/fei090620/nlp_tutorial/blob/master/src/Cluster/Hierarchical_Cluster.py)
 
 ### 文本分类
 
 //todo：
+
+多标签分类算法：[magpie](https://github.com/inspirehep/magpie)
 
 ###未完待续
 
