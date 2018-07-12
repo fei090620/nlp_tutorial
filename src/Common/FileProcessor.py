@@ -1,7 +1,8 @@
+# coding=utf-8
 from shutil import copyfile
 
 import codecs
-
+import os
 
 class FileProcessor(object):
     def __init__(self, file_path):
@@ -49,3 +50,13 @@ class FileProcessor(object):
 #
 #         return dict(files_list)
 
+
+def get_files_texts(file_dir):
+    file_names = os.listdir(file_dir)
+    text_path_list = (os.path.join(file_dir, f) for f in file_names)
+    texts = []
+    for file_path in text_path_list:
+        with codecs.open(file_path, 'r', 'utf8') as f:
+            texts.append(f.read())
+
+    return file_names, texts

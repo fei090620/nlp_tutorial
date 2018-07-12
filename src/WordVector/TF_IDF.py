@@ -2,9 +2,9 @@
 import logging
 
 import os
-from sklearn.feature_extraction.text import TfidfTransformer, HashingVectorizer
+from sklearn.feature_extraction.text import TfidfTransformer, CountVectorizer
 
-from src.Common.FileProcessor import FileProcessor
+from src.Common.FileProcessor import FileProcessor, get_files_texts
 from src.Common.TextPreparer import TextPreparer
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
@@ -16,7 +16,7 @@ tfidf_target_path = file_path() + '/../../data/tfidf_vectors/'
 
 
 def calculate_and_save_tf_idf_dict(words_list):
-    vector = HashingVectorizer(lowercase=False, n_features=10)
+    vector = CountVectorizer(lowercase=False)
     vector_matrix = vector.fit_transform(iter(words_list))
     tfidf_matrix = TfidfTransformer(use_idf=False).fit_transform(vector_matrix)
     return tfidf_matrix
@@ -28,9 +28,14 @@ def save_tfidf_words_dict2files(tfidfs_list, target_path, files):
         FileProcessor(os.path.join(target_path, files[i])).file_write('utf8', u' '.join([str(item) for item in tfidfs_list[i]]))
         print '{0}/{1}'.format(i, length)
 
+def load_tfidf_matrix(tfidf_dir):
+    files, texts = get_files_texts(tfidf_dir)
+    return [[float(item) for item in text.split(' ')] for text in texts]
+
 
 if __name__ == '__main__':
     words_list, files = TextPreparer().combine_all_words(words_dir)
     tfidf_matrix = calculate_and_save_tf_idf_dict(words_list)
     print tfidf_matrix
     save_tfidf_words_dict2files(tfidf_matrix.toarray(), tfidf_target_path, files)
+    tfidf_lists = load_tfidf_matrix(tfidf_target_path)

@@ -16,6 +16,7 @@ doc2vec_model_file = file_path() + '/../../data/word2vecs/doc2vec_model.txt'
 
 map_file = file_path() + '/../../data/word2vecs/tagged_map.txt'
 
+cluster_files = file_path() + '/../../data/clusters/km/'
 
 def save_label_to_tagged_file(cluster_result, tagged_file):
     file_processor = FileProcessor(tagged_file)
@@ -34,6 +35,9 @@ def show_cluster_labels(vectors, cluster_labels):
     plt.title('k-means cluser distributes status')
     plt.scatter(vectors[:, 0], vectors[:, 1], c=cluster_labels, cmap='prism')
     plt.show()
+
+def save_result2cluster_files(target_dir):
+    pass
 
 
 if __name__ == '__main__':

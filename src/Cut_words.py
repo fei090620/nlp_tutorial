@@ -2,11 +2,10 @@
 import logging
 import time
 
-import codecs
 import os
 
-from Common.FileProcessor import FileProcessor
-from Common.TextPreparer import TextPreparer
+from src.Common.FileProcessor import FileProcessor, get_files_texts
+from src.Common.TextPreparer import TextPreparer
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
@@ -18,18 +17,6 @@ stop_words_file = file_path() + '/../data/stop_words.txt'
 similar_words_file = file_path() + '/../data/similar_v2.txt'
 tagged_words_dir = file_path() + '/../data/tagged_words/'
 words_dir = file_path() + '/../data/words/'
-
-
-# 获取原始数据
-def get_files_texts(file_dir):
-    file_names = os.listdir(texts_dir)
-    text_path_list = (os.path.join(file_dir, f) for f in file_names)
-    texts = []
-    for file_path in text_path_list:
-        with codecs.open(file_path, 'r', 'utf8') as f:
-            texts.append(f.read())
-
-    return file_names, texts
 
 
 def cut_save_sentences(files, texts, sentences_file_dir_path, textPreparer):
